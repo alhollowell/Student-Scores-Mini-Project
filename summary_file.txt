@@ -1,0 +1,47 @@
+_________ File Stats _________
+File Size: 1104624 bytes
+Download Time: 11460.732 milliseconds
+Number of Records Processed: 2000
+Number of Records Processed with error: 0
+Process Time: 5.994 milliseconds
+
+_________ Career Aspirations _________
+Accountant: 126 students
+Artist: 67 students
+Banker: 169 students
+Business Owner: 309 students
+Construction Engineer: 68 students
+Designer: 56 students
+Doctor: 119 students
+Game Developer: 63 students
+Government Officer: 61 students
+Lawyer: 138 students
+Real Estate Developer: 83 students
+Scientist: 39 students
+Software Engineer: 315 students
+Stock Investor: 73 students
+Teacher: 59 students
+Unknown: 223 students
+Writer: 32 students
+
+_________ Overall Scores _________
+Number of A's: 161
+Number of B's: 993
+Number of C's: 759
+Number of D's: 85
+Number of F's: 2
+
+_________ Individual Subject Averages _________
+Math: 83.45%
+History: 80.33%
+Physics: 81.34%
+Chemistry: 80.0%
+Biology: 79.58%
+English: 81.28%
+Geography: 80.89%
+
+_________ Part Time Jobs _________
+Out of 2000 students, 316 or 15.8% have part-time jobs.
+
+_________ Extracurricular Activities _________
+408 or 20.4% students participate in extracurricular activities.
